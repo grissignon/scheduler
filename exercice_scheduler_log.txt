@@ -1,0 +1,228 @@
+        Deadline for task thread_1 : 10:27:29
+        Deadline for task thread_2 : 10:27:34
+        Deadline for task thread_3 : 10:28:19
+        thread_1 : Starting task (10:27:39)
+        thread_1 : Ending task (10:27:39)
+
+Scheduler tick : 10:27:49
+        Deadline for task thread_1 : 10:27:59
+        Deadline for task thread_2 : 10:27:34
+        Deadline for task thread_3 : 10:28:19
+        thread_2 : Starting task (10:27:49)
+        thread_2 : Ending task (10:27:49)
+
+Scheduler tick : 10:27:54
+        Deadline for task thread_1 : 10:27:59
+        Deadline for task thread_2 : 10:28:19
+        Deadline for task thread_3 : 10:28:19
+        thread_1 : Starting task (10:27:54)
+        thread_1 : Ending task (10:27:54)
+
+Scheduler tick : 10:28:04
+        Deadline for task thread_1 : 10:28:14
+        Deadline for task thread_2 : 10:28:19
+        Deadline for task thread_3 : 10:28:19
+        thread_1 : Starting task (10:28:04)
+        thread_1 : Ending task (10:28:04)
+
+Scheduler tick : 10:28:14
+        Deadline for task thread_1 : 10:28:24
+        Deadline for task thread_2 : 10:28:19
+        Deadline for task thread_3 : 10:28:19
+        thread_3 : Starting task (10:28:14)
+        thread_3 : Ending task (10:28:14)
+
+Scheduler tick : 10:28:34
+        Deadline for task thread_1 : 10:28:24
+        Deadline for task thread_2 : 10:28:19
+        Deadline for task thread_3 : 10:29:14
+        thread_2 : Starting task (10:28:34)
+        thread_2 : Ending task (10:28:34)
+
+Scheduler tick : 10:28:39
+        Deadline for task thread_1 : 10:28:24
+        Deadline for task thread_2 : 10:29:04
+        Deadline for task thread_3 : 10:29:14
+        thread_1 : Starting task (10:28:39)
+        thread_1 : Ending task (10:28:39)
+
+Scheduler tick : 10:28:49
+        Deadline for task thread_1 : 10:28:59
+        Deadline for task thread_2 : 10:29:04
+        Deadline for task thread_3 : 10:29:14
+        thread_1 : Starting task (10:28:49)
+        thread_1 : Ending task (10:28:49)
+
+Scheduler tick : 10:28:59
+        Deadline for task thread_1 : 10:29:09
+        Deadline for task thread_2 : 10:29:04
+        Deadline for task thread_3 : 10:29:14
+        thread_2 : Starting task (10:28:59)
+        thread_2 : Ending task (10:28:59)
+
+Scheduler tick : 10:29:04
+        Deadline for task thread_1 : 10:29:09
+        Deadline for task thread_2 : 10:29:29
+        Deadline for task thread_3 : 10:29:14
+        thread_1 : Starting task (10:29:04)
+        thread_1 : Ending task (10:29:04)
+
+Scheduler tick : 10:29:14
+        Deadline for task thread_1 : 10:29:24
+        Deadline for task thread_2 : 10:29:29
+        Deadline for task thread_3 : 10:29:14
+        thread_3 : Starting task (10:29:14)
+        thread_3 : Ending task (10:29:14)
+
+Scheduler tick : 10:29:34
+        Deadline for task thread_1 : 10:29:24
+        Deadline for task thread_2 : 10:29:29
+        Deadline for task thread_3 : 10:30:14
+        thread_1 : Starting task (10:29:34)
+        thread_1 : Ending task (10:29:34)
+
+Scheduler tick : 10:29:44
+        Deadline for task thread_1 : 10:29:54
+        Deadline for task thread_2 : 10:29:29
+        Deadline for task thread_3 : 10:30:14
+        thread_2 : Starting task (10:29:44)
+        thread_2 : Ending task (10:29:44)
+
+Scheduler tick : 10:29:49
+        Deadline for task thread_1 : 10:29:54
+        Deadline for task thread_2 : 10:30:14
+        Deadline for task thread_3 : 10:30:14
+        thread_1 : Starting task (10:29:49)
+        thread_1 : Ending task (10:29:49)
+
+Scheduler tick : 10:29:59
+        Deadline for task thread_1 : 10:30:09
+        Deadline for task thread_2 : 10:30:14
+        Deadline for task thread_3 : 10:30:14
+        thread_1 : Starting task (10:29:59)
+        thread_1 : Ending task (10:29:59)
+
+Scheduler tick : 10:30:09
+        Deadline for task thread_1 : 10:30:19
+        Deadline for task thread_2 : 10:30:14
+        Deadline for task thread_3 : 10:30:14
+        thread_3 : Starting task (10:30:09)
+        thread_3 : Ending task (10:30:09)
+
+Scheduler tick : 10:30:29
+        Deadline for task thread_1 : 10:30:19
+        Deadline for task thread_2 : 10:30:14
+        Deadline for task thread_3 : 10:31:09
+        thread_2 : Starting task (10:30:29)
+        thread_2 : Ending task (10:30:29)
+
+Scheduler tick : 10:30:34
+        Deadline for task thread_1 : 10:30:19
+        Deadline for task thread_2 : 10:30:59
+        Deadline for task thread_3 : 10:31:09
+        thread_1 : Starting task (10:30:34)
+        thread_1 : Ending task (10:30:34)
+
+Scheduler tick : 10:30:44
+        Deadline for task thread_1 : 10:30:54
+        Deadline for task thread_2 : 10:30:59
+        Deadline for task thread_3 : 10:31:09
+        thread_1 : Starting task (10:30:44)
+        thread_1 : Ending task (10:30:44)
+
+Scheduler tick : 10:30:54
+        Deadline for task thread_1 : 10:31:04
+        Deadline for task thread_2 : 10:30:59
+        Deadline for task thread_3 : 10:31:09
+        thread_2 : Starting task (10:30:54)
+        thread_2 : Ending task (10:30:54)
+
+Scheduler tick : 10:30:59
+        Deadline for task thread_1 : 10:31:04
+        Deadline for task thread_2 : 10:31:24
+        Deadline for task thread_3 : 10:31:09
+        thread_1 : Starting task (10:30:59)
+        thread_1 : Ending task (10:30:59)
+
+Scheduler tick : 10:31:09
+        Deadline for task thread_1 : 10:31:19
+        Deadline for task thread_2 : 10:31:24
+        Deadline for task thread_3 : 10:31:09
+        thread_3 : Starting task (10:31:09)
+        thread_3 : Ending task (10:31:09)
+
+Scheduler tick : 10:31:29
+        Deadline for task thread_1 : 10:31:19
+        Deadline for task thread_2 : 10:31:24
+        Deadline for task thread_3 : 10:32:09
+        thread_1 : Starting task (10:31:29)
+        thread_1 : Ending task (10:31:29)
+
+Scheduler tick : 10:31:39
+        Deadline for task thread_1 : 10:31:49
+        Deadline for task thread_2 : 10:31:24
+        Deadline for task thread_3 : 10:32:09
+        thread_2 : Starting task (10:31:39)
+        thread_2 : Ending task (10:31:39)
+
+Scheduler tick : 10:31:44
+        Deadline for task thread_1 : 10:31:49
+        Deadline for task thread_2 : 10:32:09
+        Deadline for task thread_3 : 10:32:09
+        thread_1 : Starting task (10:31:44)
+        thread_1 : Ending task (10:31:44)
+
+Scheduler tick : 10:31:54
+        Deadline for task thread_1 : 10:32:04
+        Deadline for task thread_2 : 10:32:09
+        Deadline for task thread_3 : 10:32:09
+        thread_1 : Starting task (10:31:54)
+        thread_1 : Ending task (10:31:54)
+
+Scheduler tick : 10:32:04
+        Deadline for task thread_1 : 10:32:14
+        Deadline for task thread_2 : 10:32:09
+        Deadline for task thread_3 : 10:32:09
+        thread_3 : Starting task (10:32:04)
+        thread_3 : Ending task (10:32:04)
+
+Scheduler tick : 10:32:24
+        Deadline for task thread_1 : 10:32:14
+        Deadline for task thread_2 : 10:32:09
+        Deadline for task thread_3 : 10:33:04
+        thread_2 : Starting task (10:32:24)
+        thread_2 : Ending task (10:32:24)
+
+Scheduler tick : 10:32:29
+        Deadline for task thread_1 : 10:32:14
+        Deadline for task thread_2 : 10:32:54
+        Deadline for task thread_3 : 10:33:04
+        thread_1 : Starting task (10:32:29)
+        thread_1 : Ending task (10:32:29)
+
+Scheduler tick : 10:32:39
+        Deadline for task thread_1 : 10:32:49
+        Deadline for task thread_2 : 10:32:54
+        Deadline for task thread_3 : 10:33:04
+        thread_1 : Starting task (10:32:39)
+        thread_1 : Ending task (10:32:39)
+
+Scheduler tick : 10:32:49
+        Deadline for task thread_1 : 10:32:59
+        Deadline for task thread_2 : 10:32:54
+        Deadline for task thread_3 : 10:33:04
+        thread_2 : Starting task (10:32:49)
+        thread_2 : Ending task (10:32:49)
+
+Scheduler tick : 10:32:54
+        Deadline for task thread_1 : 10:32:59
+        Deadline for task thread_2 : 10:33:19
+        Deadline for task thread_3 : 10:33:04
+        thread_1 : Starting task (10:32:54)
+        thread_1 : Ending task (10:32:54)
+
+Scheduler tick : 10:33:04
+        Deadline for task thread_1 : 10:33:14
+        Deadline for task thread_2 : 10:33:19
+        Deadline for task thread_3 : 10:33:04
+        thread_3 : Starting task (10:33:04)
